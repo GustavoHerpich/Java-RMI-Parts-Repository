@@ -31,16 +31,16 @@ This project is a client-server application using Java RMI (Remote Method Invoca
 ## Execution
 
 ### Start the Server
-To start the RMI server, use the server.bat script. Navigate to the project directory and run:
+To start the RMI server, use the server.bat script. Navigate to the run-server directory and execute the **bat**:
 ```bash
-run-server.server.bat
+server.bat
 ```
 The run-server.bat script will compile all Java files and then start the RMI server, and the RMI Registry.
 
 ### Start the Client
-In another terminal, use the client.bat script. Navigate to the project directory and run:
+In another terminal, use the client.bat script. Navigate to the run-client directory and execute the **bat**:
 ```bash
-run-server.client.bat
+client.bat
 ```
 
 ## Client Commands
